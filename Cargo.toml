@@ -1,5 +1,5 @@
 [package]
-name = "rust-hello"
+name = "nowo"
 version = "0.1.0"
 edition = "2021"
 authors = ["nowo<z8888788@163.com>"]
