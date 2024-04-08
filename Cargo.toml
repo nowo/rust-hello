@@ -1,6 +1,6 @@
 [package]
 name = "nowo"
-version = "0.0.1"
+version = "0.0.2"
 edition = "2021"
 authors = ["nowo<z8888788@163.com>"]
 repository = "https://github.com/nowo/rust-hello"
