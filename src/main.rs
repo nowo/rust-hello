@@ -16,7 +16,10 @@ mod foo {
 // use foo::size::{self as FooSize, fn_file_url};
 
 use crate::{
-    foo::{mode,size::{self as FooSize, fn_file_url}},
+    foo::{
+        mode,
+        size::{self as FooSize, fn_file_url},
+    },
     // module::test,
 };
 
@@ -35,6 +38,4 @@ fn main() {
         *i += 50;
     }
     println!("v=> {:#?}", v);
-
-
 }
